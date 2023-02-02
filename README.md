@@ -1,8 +1,10 @@
 ![Web Developer](https://media.licdn.com/dms/image/C4E16AQGE37KMsE6exw/profile-displaybackgroundimage-shrink_350_1400/0/1603360861721?e=1680739200&v=beta&t=sptU-DbNllABl8ObwkmWBywaahOHkbD3pwxn9_meXsA)
 
-### Hi there 👋, i'm Readul Salehen
-#### Web Developer
+### Hi I'm Readul Salehen 👋
 
+
+👨‍💻 I'm Web Developer
+✐ Love To Write Code
 
 
 Skills: HTML / CSS / .Net / Python / C#
