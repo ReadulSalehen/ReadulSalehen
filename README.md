@@ -3,8 +3,8 @@
 ### Hi I'm Readul Salehen 👋
 
 
--👨‍💻 I'm Web Developer
--✐ Love To Write Code
+👨‍💻 I'm Web Developer.
+✐ Love To Write Code
 
 
 Skills: HTML / CSS / .Net / Python / C#
