@@ -3,7 +3,8 @@
 ### Hi I'm Readul Salehen 👋
 
 
-👨‍💻 I'm Web Developer/br
+👨‍💻 I'm Web Developer
+
 ✐ Love To Write Code
 
 
