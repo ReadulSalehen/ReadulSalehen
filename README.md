@@ -20,7 +20,9 @@ Skills: HTML / CSS / .Net / Python / C#
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ReadulSalehen&show_icons=true)  
+,,,
 
 ![GitHub metrics](https://metrics.lecoq.io/ReadulSalehen)  
+,,,
 
 ![Profile views](https://gpvc.arturio.dev/ReadulSalehen)  
