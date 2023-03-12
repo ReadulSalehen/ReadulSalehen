@@ -7,10 +7,12 @@
 ✐ Love To Write Code
 
 
-Skills: HTML / CSS / .Net / Python / C#
+Skills  : HTML, CSS, BOOTSTRAP
+
+LEARNING: ASP.NET CORE, MVC
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Asp.Net 
+- 🌱 I’m currently learning Asp.Net Core, MVC 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 
